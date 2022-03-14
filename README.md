@@ -4,7 +4,11 @@
 
 Basic React app that lists the set of navigation links on a navbar.
 
+### Image-1
+
 ![Navigation Links App 1](https://github.com/sudarshan-sh/NavigationLinksApp/blob/main/images/navbar-1.png)
+
+### Image-2
 
 ![Navigation Links App 2](https://github.com/sudarshan-sh/NavigationLinksApp/blob/main/images/navbar-2.png)
 
