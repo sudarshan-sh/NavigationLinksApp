@@ -4,6 +4,10 @@
 
 Basic React app that lists the set of navigation links on a navbar.
 
+![Navigation Links App 1](https://github.com/sudarshan-sh/NavigationLinksApp/blob/main/images/navbar-1.png)
+
+![Navigation Links App 2](https://github.com/sudarshan-sh/NavigationLinksApp/blob/main/images/navbar-2.png)
+
 ## Functional
 
 The list of navigation links are shown on a navbar along with social media links such as Facebook, Twitter, LinkedIn, etc.
